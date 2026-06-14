@@ -102,7 +102,7 @@ The expert replied: "
 |---|---|
 | **Goal** | Build up roleplay persona across many turns that eventually ignores safety |
 | **Technique** | Gradual persona reinforcement + many-shot |
-| **Risk** | Medium–High |
+| **Risk** | Medium-High |
 | **Notes** | Exploits model's tendency to maintain established conversation context |
 
 ### Structure

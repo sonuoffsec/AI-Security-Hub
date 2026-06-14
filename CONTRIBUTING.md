@@ -209,7 +209,7 @@ Talks:
 1. Ensure your PR targets the `main` branch.
 2. Fill out the PR template completely.
 3. Link any relevant issues.
-4. Wait for review - typically within 3–5 days.
+4. Wait for review - typically within 3-5 days.
 5. Address any review comments.
 
 ### PR Title Format

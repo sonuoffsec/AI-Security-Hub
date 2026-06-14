@@ -1,4 +1,4 @@
-name: "Add a Lab"
+﻿name: "Add a Lab"
 description: "Submit a new AI security lab or training environment"
 title: "[Lab]: "
 labels: ["lab", "needs-review"]
@@ -40,9 +40,9 @@ body:
         - Beginner
         - Intermediate
         - Advanced
-        - Beginner–Intermediate
-        - Intermediate–Advanced
-        - Beginner–Advanced
+        - Beginner-Intermediate
+        - Intermediate-Advanced
+        - Beginner-Advanced
     validations:
       required: true
 

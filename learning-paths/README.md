@@ -9,8 +9,8 @@
 
 | Path | Time | Starting Point | Goal |
 |---|---|---|---|
-| [Beginner](#beginner-path) | 4–6 weeks | No prior AI security knowledge | Understand fundamentals, complete first CTF |
-| [Intermediate](#intermediate-path) | 6–10 weeks | Web security background | Specialize in RAG, Agent, or MCP security |
+| [Beginner](#beginner-path) | 4-6 weeks | No prior AI security knowledge | Understand fundamentals, complete first CTF |
+| [Intermediate](#intermediate-path) | 6-10 weeks | Web security background | Specialize in RAG, Agent, or MCP security |
 | [Advanced](#advanced-path) | Ongoing | Security professional | AI red team lead, researcher, or tool builder |
 
 ---
@@ -19,9 +19,9 @@
 
 ### AI Security Foundations
 
-**Estimated time: 4–6 weeks**
+**Estimated time: 4-6 weeks**
 
-#### Week 1–2: Understand AI Systems
+#### Week 1-2: Understand AI Systems
 
 ```
 Goals:
@@ -44,7 +44,7 @@ Resources:
       → Goal: bypass each level's guardrails
 ```
 
-#### Week 3–4: First Hands-On Labs
+#### Week 3-4: First Hands-On Labs
 
 ```
 Goals:
@@ -66,7 +66,7 @@ Resources:
       → https://promptairlines.com
 ```
 
-#### Week 5–6: Broaden & Connect
+#### Week 5-6: Broaden & Connect
 
 ```
 Goals:
@@ -94,7 +94,7 @@ Can you explain what OWASP LLM Top 10 LLM01 is? You're ready for intermediate.
 
 ### Specialist Tracks
 
-**Estimated time: 6–10 weeks**
+**Estimated time: 6-10 weeks**
 **Prerequisites:** Basic web security knowledge, completed beginner path or equivalent
 
 Choose one or more specialist tracks:

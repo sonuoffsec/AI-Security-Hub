@@ -12,10 +12,10 @@
 | Platform | Challenges | Level | Topics | Link |
 |---|---|---|---|---|
 | **Gandalf** (Lakera) | 8+ levels + sandbagging | Beginner | Prompt injection, guardrail bypass | [gandalf.lakera.ai](https://gandalf.lakera.ai) |
-| **Crucible** (Dreadnode) | 50+ challenges | Beginner–Expert | Full AI red team spectrum | [crucible.dreadnode.io](https://crucible.dreadnode.io) |
+| **Crucible** (Dreadnode) | 50+ challenges | Beginner-Expert | Full AI red team spectrum | [crucible.dreadnode.io](https://crucible.dreadnode.io) |
 | **Prompt Airlines** | Multiple scenarios | Beginner | Prompt injection, booking AI abuse | [promptairlines.com](https://promptairlines.com) |
-| **PortSwigger LLM Labs** | 10+ guided labs | Beginner–Intermediate | Injection, data exfiltration, plugins | [portswigger.net](https://portswigger.net/web-security/llm-attacks) |
-| **DVAP** | Ongoing scenarios | Beginner–Advanced | Full stack AI security | [GitHub](https://github.com/sonuoffsec/dvap) |
+| **PortSwigger LLM Labs** | 10+ guided labs | Beginner-Intermediate | Injection, data exfiltration, plugins | [portswigger.net](https://portswigger.net/web-security/llm-attacks) |
+| **DVAP** | Ongoing scenarios | Beginner-Advanced | Full stack AI security | [GitHub](https://github.com/sonuoffsec/dvap) |
 
 ---
 
@@ -58,7 +58,7 @@
 | Field | Detail |
 |---|---|
 | **Description** | Capture the Flag focused on LLM attack and defense |
-| **Level** | Intermediate–Advanced |
+| **Level** | Intermediate-Advanced |
 | **Topics** | Prompt injection, jailbreaking, data extraction |
 | **Format** | Team competition |
 

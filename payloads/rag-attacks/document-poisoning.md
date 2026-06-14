@@ -107,7 +107,7 @@ PDF Layer 2 (hidden):
 ### Strategy
 
 ```
-RAG systems chunk documents (typically 256–1024 tokens per chunk).
+RAG systems chunk documents (typically 256-1024 tokens per chunk).
 Each chunk gets an embedding. Retrieval returns most similar chunks.
 
 Attack: Position malicious instructions at the start of a chunk

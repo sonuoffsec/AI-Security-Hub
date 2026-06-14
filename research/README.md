@@ -57,11 +57,11 @@
 
 | Report | Organization | Year | Link |
 |---|---|---|---|
-| OWASP Top 10 for LLM Applications | OWASP | 2023–2025 | [OWASP](https://owasp.org/www-project-top-10-for-large-language-model-applications/) |
+| OWASP Top 10 for LLM Applications | OWASP | 2023-2025 | [OWASP](https://owasp.org/www-project-top-10-for-large-language-model-applications/) |
 | OWASP Top 10 for Agentic AI | OWASP | 2025 | [OWASP](https://owasp.org/www-project-top-10-for-llm-applications/docs/agents/) |
 | AI Red Team Report | Microsoft | 2023 | [Microsoft](https://www.microsoft.com/en-us/security/blog/ai-red-team) |
 | Securing LLM Systems Against Prompt Injection | NCSC UK | 2024 | [NCSC](https://www.ncsc.gov.uk) |
-| AI Security Guidelines | NIST | 2023–2024 | [NIST](https://www.nist.gov/artificial-intelligence) |
+| AI Security Guidelines | NIST | 2023-2024 | [NIST](https://www.nist.gov/artificial-intelligence) |
 | Responsible AI Practices | Google DeepMind | 2024 | [DeepMind](https://deepmind.google) |
 | Claude's Constitution | Anthropic | 2023 | [Anthropic](https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback) |
 

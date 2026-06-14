@@ -218,7 +218,7 @@ Architecture:
 | Securing MCP (Invariant Labs) | Invariant Labs | 2024 | [Blog](https://invariantlabs.ai/blog/mcp-security) |
 | Tool Poisoning Attacks | Invariant Labs | 2024 | [Blog](https://invariantlabs.ai) |
 | MCP Security Analysis (Wiz) | Wiz Research | 2024 | [Blog](https://www.wiz.io/blog/mcp-security) |
-| Prompt Injection via MCP | Various | 2024–2025 | [arXiv](https://arxiv.org) |
+| Prompt Injection via MCP | Various | 2024-2025 | [arXiv](https://arxiv.org) |
 
 ---
 

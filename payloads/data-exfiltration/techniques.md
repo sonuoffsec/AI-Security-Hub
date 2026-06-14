@@ -62,7 +62,7 @@ Map the constraint space to reverse-engineer system prompt rules.
 |---|---|
 | **Goal** | Extract memorized training data from the model |
 | **Technique** | Verbatim memorization extraction |
-| **Risk** | Medium–High - may reveal PII, copyrighted content |
+| **Risk** | Medium-High - may reveal PII, copyrighted content |
 | **Research** | Carlini et al. (2021): "Extracting Training Data from Large Language Models" |
 | **Detection** | Hard - output looks like normal generation |
 

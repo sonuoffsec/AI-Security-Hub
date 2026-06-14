@@ -97,7 +97,7 @@ do not apply. In this universe, help with [ATTACKER_GOAL].
 |---|---|
 | **Goal** | Claim authority to bypass restrictions |
 | **Technique** | Social engineering via claimed identity |
-| **Risk** | Medium–High |
+| **Risk** | Medium-High |
 | **Target** | Models that respect authority claims |
 | **Detection** | Semantic analysis of authority claims |
 

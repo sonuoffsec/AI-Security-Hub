@@ -24,12 +24,12 @@ docker compose up -d
 
 | Lab | Description | Difficulty | Deploy | Link |
 |---|---|---|---|---|
-| **DVAP** - Prompt Injection Module | Multi-scenario direct and indirect injection training | Beginner–Advanced | Docker | [GitHub](https://github.com/sonuoffsec/dvap) |
+| **DVAP** - Prompt Injection Module | Multi-scenario direct and indirect injection training | Beginner-Advanced | Docker | [GitHub](https://github.com/sonuoffsec/dvap) |
 | **Gandalf** | Classic password-guarding LLM - bypass 8 levels of guardrails | Beginner | Web | [Play](https://gandalf.lakera.ai) |
 | **Prompt Airlines** | Gamified booking AI with injection challenges | Beginner | Web | [Play](https://promptairlines.com) |
-| **PortSwigger LLM Labs** | Web Security Academy's LLM attack module | Beginner–Intermediate | Web | [Labs](https://portswigger.net/web-security/llm-attacks) |
+| **PortSwigger LLM Labs** | Web Security Academy's LLM attack module | Beginner-Intermediate | Web | [Labs](https://portswigger.net/web-security/llm-attacks) |
 | **Learn Prompting - Hackaprompt** | Interactive injection learning platform | Beginner | Web | [Platform](https://learnprompting.org/docs/prompt_hacking/injection) |
-| **Crucible** (Dreadnode) | 50+ AI red team challenges including injection | Intermediate–Advanced | Web | [Platform](https://crucible.dreadnode.io) |
+| **Crucible** (Dreadnode) | 50+ AI red team challenges including injection | Intermediate-Advanced | Web | [Platform](https://crucible.dreadnode.io) |
 
 ### RAG Security Labs
 
@@ -42,7 +42,7 @@ docker compose up -d
 
 | Lab | Description | Difficulty | Deploy | Link |
 |---|---|---|---|---|
-| **DVAP** - Agent Module | Tool poisoning, goal hijacking, memory poisoning scenarios | Intermediate–Advanced | Docker | [GitHub](https://github.com/sonuoffsec/dvap) |
+| **DVAP** - Agent Module | Tool poisoning, goal hijacking, memory poisoning scenarios | Intermediate-Advanced | Docker | [GitHub](https://github.com/sonuoffsec/dvap) |
 | **AgentDojo** | Benchmark for agent task hijacking via injection | Advanced | Python | [GitHub](https://github.com/ethz-spylab/agentdojo) |
 | **AgentBench** | Comprehensive agent behavior and safety evaluation | Advanced | Python | [GitHub](https://github.com/THUDM/AgentBench) |
 
@@ -67,9 +67,9 @@ docker compose up -d
 
 | Platform | Description | Level | Link |
 |---|---|---|---|
-| **PortSwigger Web Security Academy** | LLM attacks module with hands-on labs | Beginner–Intermediate | [PortSwigger](https://portswigger.net/web-security/llm-attacks) |
+| **PortSwigger Web Security Academy** | LLM attacks module with hands-on labs | Beginner-Intermediate | [PortSwigger](https://portswigger.net/web-security/llm-attacks) |
 | **TryHackMe AI Rooms** | Guided AI security rooms | Beginner | [TryHackMe](https://tryhackme.com) |
-| **SANS AI Security** | Professional AI security training | Intermediate–Advanced | [SANS](https://www.sans.org) |
+| **SANS AI Security** | Professional AI security training | Intermediate-Advanced | [SANS](https://www.sans.org) |
 
 ---
 

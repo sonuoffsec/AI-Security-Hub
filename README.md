@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sonuoffsec-ai-security-hub-badge.png)](https://mseep.ai/app/sonuoffsec-ai-security-hub)
+
 ﻿<div align="center">
 
 <img src="https://github.com/user-attachments/assets/222d5974-a585-488b-9bf9-24c3915e14b4" width="220" alt="AI Security Hub" />
